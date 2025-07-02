@@ -4,7 +4,7 @@
 {
     "name": "Product Category Group",
     "summary": "",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Product",
     "website": "https://github.com/juanpgarza/product-addons",
     "author": "juanpgarza",
@@ -18,5 +18,5 @@
         'views/product_category_views.xml',        
         'security/ir.model.access.csv',        
         ],
-    "installable": False,
+    "installable": True,
 }
